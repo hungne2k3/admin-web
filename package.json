@@ -1,6 +1,10 @@
 {
   "name": "01-next-rn",
   "version": "0.1.0",
+  "author": {
+    "name": "NGYỄN MẠNH HÙNG",
+    "email": "manhhung712003@gmail.com"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,16 +13,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "next": "14.2.5"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "typescript": "5.5.4",
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "eslint": "8.57.0",
     "eslint-config-next": "14.2.5"
   }
 }
